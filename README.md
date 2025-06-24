@@ -18,17 +18,16 @@ I'm a passionate frontend developer from Bangladesh.
 Focused on creating responsive and accessible user interfaces with React and Tailwind CSS.  
 I love clean, reusable code and continuous learning.
 
----
+
 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,git,github,vscode,figma,mongodb,express" />
 </p>
 
----
 
-## 📫 Connect with Me
+## 📫 Where to find me
 
 <p align="center">
   <a href="mailto:sumiayaakther15@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 12px;">
@@ -46,13 +45,6 @@ I love clean, reusable code and continuous learning.
 </p>
 
 
-
-
-
-
----
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumiaya-Akther&show_icons=true&theme=tokyonight" width="48%" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumiaya-Akther&layout=compact&theme=tokyonight" width="43%"  />
@@ -60,5 +52,12 @@ I love clean, reusable code and continuous learning.
 
 
 ---
+
+### 📈 Contribution Graph (Public + Private)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sumiaya-Akther&theme=github-compact&area=true&hide_border=true" />
+</p>
+
 
 
