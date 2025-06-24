@@ -51,7 +51,7 @@ I love clean, reusable code and continuous learning.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumiaya-Akther&show_icons=true&theme=tokyonight" width="48%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumiaya-Akther&layout=compact&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumiaya-Akther&layout=compact&theme=tokyonight" width="48%"  />
 </p>
 
 
