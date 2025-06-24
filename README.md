@@ -49,14 +49,13 @@ I love clean, reusable code and continuous learning.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumiaya-Akther&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Sumiaya-Akther&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sumiaya-Akther&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumiaya-Akther&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumiaya-Akther&theme=dark&no-frame=true&margin-w=15" width="48%" />
 </p>
+
 
 ---
 
