@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://i.ibb.co/ZR3T4s8K/github.png" alt="Profile Banner" width="100%" height="50%" />
 </p>
-## 👩‍💻 About Me
+## 👩‍💻 **About Me**
 
 I am a passionate **Front-end Developer** from Bangladesh.  
 Focused on building beautiful, responsive, and user-friendly web interfaces using **React** and **Tailwind CSS**.
