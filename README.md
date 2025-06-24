@@ -4,12 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=Frontend+Developer;React+%26+Tailwind+Enthusiast;Building+responsive+websites;Welcome+to+my+GitHub!" />
 </p>
-
 <p align="center">
   <img src="https://i.ibb.co/ZR3T4s8K/github.png" alt="Profile Banner" width="100%" height="50%" />
 </p>
-
-
 ---
 
 ## 👩‍💻 About Me
