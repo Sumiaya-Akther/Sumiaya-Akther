@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/ZR3T4s8K/github.png" alt="Profile Banner" width="100%" />
+  <img src="https://i.ibb.co/ZR3T4s8K/github.png" alt="Profile Banner" width="100%" height="50%" />
 </p>
 
 
