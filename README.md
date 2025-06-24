@@ -61,8 +61,3 @@ I love clean, reusable code and continuous learning.
 ---
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/yourgithubusername/yourgithubusername/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
