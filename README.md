@@ -49,11 +49,9 @@ I love clean, reusable code and continuous learning.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumiaya-Akther&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumiaya-Akther&theme=dark&no-frame=true&margin-w=15" width="48%" />
+  
 </p>
 
 
