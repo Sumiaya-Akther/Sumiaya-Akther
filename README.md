@@ -60,13 +60,6 @@ I love clean, reusable code and continuous learning.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=dark&no-frame=true&margin-w=15" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
