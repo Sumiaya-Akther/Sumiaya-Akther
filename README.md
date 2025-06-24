@@ -50,12 +50,12 @@ I love clean, reusable code and continuous learning.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=yourgithubusername&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumiaya-Akther&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sumiaya-Akther&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourgithubusername&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sumiaya-Akther&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
