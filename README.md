@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/vL0R3sL/github-profile-banner-example.png" alt="Profile Banner" width="100%" />
+  <img src="[https://i.ibb.co/vL0R3sL/github-profile-banner-example.png](https://i.ibb.co/1YdJTSd5/Black-and-White-Illustrative-Manager-Linked-In-Banner.png)" alt="Profile Banner" width="100%" />
 </p>
 
 
