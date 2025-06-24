@@ -14,9 +14,21 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate frontend developer from Bangladesh.  
-Focused on creating responsive and accessible user interfaces with React and Tailwind CSS.  
-I love clean, reusable code and continuous learning.
+<table>
+  <tr>
+    <td>
+
+🎯 I’m a passionate frontend developer from **Bangladesh** focused on building responsive, accessible, and modern UI with **React** and **Tailwind CSS**.  
+💬 I love solving UI challenges, making clean components, and collaborating on creative web experiences.
+
+    </td>
+    <td>
+
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Code Animation" />
+
+    </td>
+  </tr>
+</table>
 
 
 
