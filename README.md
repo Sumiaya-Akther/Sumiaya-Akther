@@ -14,23 +14,18 @@
 
 ## 👩‍💻 About Me
 
-<table>
-  <tr>
-    <td>
+I am a passionate **Front-end Developer** from Bangladesh.  
+Focused on building beautiful, responsive, and user-friendly web interfaces using **React** and **Tailwind CSS**.
 
-🎯 I’m a passionate frontend developer from **Bangladesh** focused on building responsive, accessible, and modern UI with **React** and **Tailwind CSS**.  
-💬 I love solving UI challenges, making clean components, and collaborating on creative web experiences.
+### 🔥  Currently Learning
 
-    </td>
-    <td>
+- Exploring **Firebase Authentication** and **JWT** for secure user authentication.  
+- Practicing **MongoDB** and **Express.js** to strengthen backend skills.  
+- Improving **JavaScript (ES6+)** and **React** fundamentals.  
+- Learning **Tailwind CSS** for responsive and modern UI design.
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Code Animation" />
-
-    </td>
-  </tr>
-</table>
-
-
+📫 Reach me at: sumiayaakther15@gmail.com
+ 
 
 ## 🛠️ Skills
 
