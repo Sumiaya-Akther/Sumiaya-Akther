@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Sumiaya 👋</h1>
+<h1 align="center">Hi, I'm Sumiaya 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=Frontend+Developer;React+%26+Tailwind+Enthusiast;Building+responsive+websites;Welcome+to+my+GitHub!" />
@@ -55,6 +55,8 @@ Focused on building beautiful, responsive, and user-friendly web interfaces usin
 
 ---
 
-
+<p align="center">
+  💙 Thanks for visiting my profile. Let's build something amazing together!
+</p>
 
 
